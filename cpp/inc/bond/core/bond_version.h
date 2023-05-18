@@ -9,7 +9,7 @@
 #include <type_traits>
 
 #define BOND_VERSION 0x0b00
-#define BOND_MIN_CODEGEN_VERSION 0x0d00
+#define BOND_MIN_CODEGEN_VERSION 0x0900
 
 namespace bond
 {
